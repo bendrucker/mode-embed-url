@@ -18,7 +18,8 @@ var mode = require('mode-embed-url')
 mode({
   organization: 'ben',
   report: 'packages',
-  accessKey: 'letmein',
+  key: 'letmein',
+  secret: 'shh',
   maxAge: 3600,
   timestamp: 1,
   params: {
