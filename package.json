@@ -1,7 +1,7 @@
 {
   "name": "mode-embed-url",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Mode Analytics white label embed URLs",
   "license": "MIT",
   "repository": "bendrucker/mode-embed-url",
