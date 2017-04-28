@@ -81,7 +81,7 @@ One or more parameters.
 Type: `number`  
 Default: `Date.now()`
 
-The current timestamp.
+The current timestamp (in milliseconds).
 
 
 ## License

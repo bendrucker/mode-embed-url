@@ -12,7 +12,7 @@ test(function (t) {
     key: 'lime',
     secret: 'shhh',
     maxAge: 3600,
-    timestamp: 1,
+    timestamp: 1000,
     params: {
       foo: 'bar'
     }
