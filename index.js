@@ -16,7 +16,7 @@ function mode (options) {
   assert.equal(typeof options.maxAge, 'number', 'maxAge is required')
   assert.equal(typeof options.params, 'object', 'params are required')
 
-  var timestamp = Math.floor((options.timestamp || Date.now()) / 1000)
+  var timestamp = options.timestamp || Math.floor(Date.now() / 1000)
 
   var embed = url.format({
     protocol: 'https:',

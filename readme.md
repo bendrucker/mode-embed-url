@@ -67,7 +67,7 @@ The access secret.
 *Required*  
 Type: `number`
 
-The duration for which that the embed URL will be usable.
+The maximum allowed query age before a report will be re-run (in seconds).
 
 ###### params
 
@@ -81,7 +81,7 @@ One or more parameters.
 Type: `number`  
 Default: `Date.now()`
 
-The current timestamp (in milliseconds).
+The current timestamp (in seconds).
 
 
 ## License
