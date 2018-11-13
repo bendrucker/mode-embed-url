@@ -1,4 +1,4 @@
-# mode-embed-url [![Build Status](https://travis-ci.org/bendrucker/mode-embed-url.svg?branch=master)](https://travis-ci.org/bendrucker/mode-embed-url)
+# mode-embed-url [![Build Status](https://travis-ci.org/bendrucker/mode-embed-url.svg?branch=master)](https://travis-ci.org/bendrucker/mode-embed-url) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/mode-embed-url.svg)](https://greenkeeper.io/)
 
 > Create [Mode Analytics white label embed](https://help.modeanalytics.com/articles/setting-up-white-label-embeds/) URLs
 
